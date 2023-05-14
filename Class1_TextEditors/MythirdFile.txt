@@ -1,0 +1,22 @@
+Brand,Car_type,Segment
+Acura,SUV,Luxury
+Acura,Sedan,Luxury
+Audi,SUV,Luxury
+Audi,Sedan,Luxury
+BMV,SUV,Luxury
+BMV,Sedan,Luxury
+Chevrolet,SUV,Mass-Market Class
+Chevrolet,Sedan,Mass-Market Class
+Chevrolet,Minivan,Mass-Market Class
+Chevroelt,Truck,Mass-Market Class
+Ferrari,Sport_car,Super Luxury
+Ford,SUV,Mass-Market Class
+Ford,Sedan,Mass-Market Class
+Ford,Minivan,Mass-Market Class
+Frod,Truck,Mass-Market Class
+Honda,SUV,Mass-Market Class
+Honda,Sedan,Mas-Market Class
+Honda,Minivan,Mass-Market Class
+Hyundai,SUV,Mass-Market Class
+Hyundai,Sedan,Mass-Market Class
+Hyundai,Minivan,Mass-Market Clas
